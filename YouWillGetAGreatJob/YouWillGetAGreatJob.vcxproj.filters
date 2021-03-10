@@ -18,5 +18,8 @@
     <ClCompile Include="RebasePractice.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="SecondRebaseBranchInFeature.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
